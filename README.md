@@ -41,8 +41,3 @@ It will also show how many cards you have due and how long you've been on Anki f
 ## Contributing
 
 Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-
-  
