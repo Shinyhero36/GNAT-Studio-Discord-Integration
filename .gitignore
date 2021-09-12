@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/*.pyc
+
+# Makefile
+makefile
+
+# Virtualenv
+venv
+
+# Jetbrains IDE
+/.idea
